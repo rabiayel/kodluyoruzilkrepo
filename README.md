@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Frond-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![](https://github.com/rabiayel/kodluyoruzilkrepo/blob/main/ry-kodluyoruz.patika.dev.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya benim repomdan aldığım linki bırakıyorum.)
